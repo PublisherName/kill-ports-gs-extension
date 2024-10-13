@@ -1,11 +1,12 @@
 {
-  "uuid": "kill_ports@stasrusnak.github.com",
+  "uuid": "killports@subashghimire.info.np",
   "name": "Kill Ports",
   "description": "Extension to kill processes on a specified port",
-  "url": "https://github.com/stasrusnak/kill_ports",
+  "url": "https://github.com/PublisherName/kill-ports-gs-extension",
   "shell-version": [
+    "45",
     "46",
     "47"
   ],
-  "version": 2.1
+  "version": 1
 }

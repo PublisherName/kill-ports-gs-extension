@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd kill_ports@stasrusnak.github.com
+cd killports@subashghimire.info.np
 
-zip -r ../kill_ports@stasrusnak.github.com.zip *.js metadata.json stylesheet.css icons/
+zip -r ../killports@subashghimire.info.np.zip .

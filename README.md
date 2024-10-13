@@ -15,12 +15,12 @@ This extension allows you to easily kill processes running on a specified port d
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/stasrusnak/kill_ports.git
+    git clone https://github.com/PublisherName/kill-ports-gs-extension.git
     ```
 
 2. Navigate to the extension directory:
     ```sh
-    cd kill_ports
+    cd kill-ports-gs-extension
     ```
 
 3. Copy the extension to the GNOME Shell extensions directory:
